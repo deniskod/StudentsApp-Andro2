@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Students App</string>
+    <string name="enter_student_name">Enter Student Name</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="save">Save</string>
+    <string name="edit_student_name">Edit Student Name</string>
+    <string name="edit_student_id">Edit Student ID</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_new_student">Add New Student</string>
+    <string name="student_id">Student ID</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="student_name">Student Name</string>
+    <string name="jg">jg</string>
+</resources>
